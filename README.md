@@ -1,2 +1,2 @@
-# Power-Up-Python-Automacao-Tarefas
-Projeto 1 : Python Power Up - Automação de Tarefas
+# Power-Up-Python-Automacao-De-Tarefas
+Hashtag 1 :  Power Up Python - Automação de Tarefas
